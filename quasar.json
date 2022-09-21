@@ -9,14 +9,14 @@
         },
         {
             "path": "core_software",
-            "fetchurl": "https://github.com/DemonGiggle/ethos-u-core-software.git",
-            "pushurl": "ssh://review.mlplatform.org:29418/ml/ethos-u/ethos-u-core-software",
+            "fetchurl": "git@github.com:DemonGiggle/ethos-u-core-software.git",
+            "pushurl": "git@github.com:DemonGiggle/ethos-u-core-software.git",
             "revision": "quasar"
         },
         {
             "path": "core_software/core_driver",
-            "fetchurl": "https://github.com/DemonGiggle/ethos-u-core-driver.git",
-            "pushurl": "ssh://review.mlplatform.org:29418/ml/ethos-u/ethos-u-core-driver",
+            "fetchurl": "git@github.com:DemonGiggle/ethos-u-core-driver.git",
+            "pushurl": "git@github.com:DemonGiggle/ethos-u-core-driver.git",
             "revision": "quasar"
         },
         {
@@ -58,8 +58,8 @@
         },
         {
             "path": "vela",
-            "fetchurl": "https://github.com/DemonGiggle/ethos-u-vela.git",
-            "pushurl": "ssh://review.mlplatform.org:29418/ml/ethos-u/ethos-u-vela",
+            "fetchurl": "git@github.com:DemonGiggle/ethos-u-vela.git",
+            "pushurl": "git@github.com:DemonGiggle/ethos-u-vela.git",
             "revision": "quasar"
         }
     ]
